@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #212429;
+    background-attachment: fixed;
+}
+nav a{
+    color: #e1d3d3;
+}
+ul li a{
+    color: #aba3a3 !important;
+}
+.img{
+   
+    height: 400px;
+}
+i{
+    background-color: black;
+    border-radius: 7px;
+    color: white;
+}
+.st{
+color: red;
+}
+.paragraph{
+    color: #9c9393;
+}
+.feature{
+    border: 1px solid black;
+}
